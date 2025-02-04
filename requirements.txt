@@ -1,0 +1,6 @@
+ipyvizzu==0.17.0
+pandas==1.5.2
+streamlit==1.38.0
+streamlit_lottie==0.0.5
+numpy==1.26.3
+ipyvizzu-story
