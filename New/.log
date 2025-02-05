@@ -1,0 +1,10 @@
+2025-02-04 22:27:50,020 [28480] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2025-02-04 22:29:04,932 [24084] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2025-02-04 22:37:14,405 [24084] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2025-02-04 22:37:39,557 [24084] INFO     pandasgui.gui:481: [JupyterRequire] Opening PandasGUI
+2025-02-04 22:37:43,920 [24084] DEBUG    matplotlib:337: [JupyterRequire] matplotlib data path: C:\Users\VP\anaconda3\Lib\site-packages\matplotlib\mpl-data
+2025-02-04 22:37:43,933 [24084] DEBUG    matplotlib:337: [JupyterRequire] CONFIGDIR=C:\Users\VP\.matplotlib
+2025-02-04 22:37:43,936 [24084] DEBUG    matplotlib:1498: [JupyterRequire] interactive is False
+2025-02-04 22:37:43,937 [24084] DEBUG    matplotlib:1499: [JupyterRequire] platform is win32
+2025-02-04 22:37:44,052 [24084] DEBUG    matplotlib:337: [JupyterRequire] CACHEDIR=C:\Users\VP\.matplotlib
+2025-02-04 22:37:44,064 [24084] DEBUG    matplotlib.font_manager:1574: [JupyterRequire] Using fontManager instance from C:\Users\VP\.matplotlib\fontlist-v330.json
